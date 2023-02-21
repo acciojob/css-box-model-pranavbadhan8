@@ -1,16 +1,12 @@
 
 /* Your CSS Code here. */
-div {
-	
-	border: solid black 2px;
+.hii{
+	border: 15px solid blue;
+	padding: 50px;
+	background-color: lightblue;
+	width:300px;
 	margin:20px;
 }
-span {
-	padding-left:340px;
-}
-#bor{
-	background-color:blue;
-}
-#paddi{
-	background-color:lightblue;
+.hey{
+
 }
